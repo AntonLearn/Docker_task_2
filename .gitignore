@@ -1,0 +1,8 @@
+env/
+.git/
+.idea/
+smart_home/__pycache__/
+measurement/__pycache__/
+measurement/migrations/
+.env
+db.sqlite3
